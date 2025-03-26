@@ -1,3 +1,7 @@
+<h1 align="center">hey there 👋 i'm Bart Slagboom</h1>
+
+###
+
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZqNzNwa2ZvMGtvMGE5ZjNhOXVwMTIxNDNiNWd1ZGJiMnFjOGJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 </div>
@@ -17,10 +21,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bslagboom.Bslagboom&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋 i'm Bart Slagboom</h1>
 
 ###
 
@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
