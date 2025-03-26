@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 i'm Bart Slagboom</h1>
+<h1 align="center">Hey there 👋 I'm Bart Slagboom</h1>
 
 ###
 
